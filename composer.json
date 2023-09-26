@@ -1,0 +1,9 @@
+{
+    "name": "rahmo/pex.php",
+    "autoload": {
+        "psr-4": {
+            "Rahmo\\PexPhp\\": "src/"
+        }
+    },
+    "require": {}
+}
